@@ -15,7 +15,7 @@ This project uses the [Chuck Norris Joke API](https://api.chucknorris.io/) to fe
 - **Chuck Norris Joke API**: To retrieve random jokes.
 
 - ### Live
-[chuckNorris](https://github.com/glszen/chuckNorris)
+[chuckNorris](https://github-glszen.io/chuckNorris)
 
 
 https://github.com/user-attachments/assets/9e137729-b0c7-4519-9997-14e33fca57a9
